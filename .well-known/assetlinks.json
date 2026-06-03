@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.verby188.cinqrois",
+    "sha256_cert_fingerprints": [
+      "B5:53:68:61:0E:8B:DC:FF:4C:E5:13:58:0A:DA:71:3E:2A:88:7C:C7:DA:82:A2:A8:6E:27:AE:FD:35:5D:A7:6E"
+    ]
+  }
+}]
